@@ -99,7 +99,7 @@ ul {
 
 li {
     display: inline;
-    margin-inline: 20px;
+    margin-inline: 80px;
 }
 
 a {
@@ -373,9 +373,5 @@ a.nav{
         margin-bottom: 2%;
         width: 50%;
         padding: 0;
-    }
-
-    #photo {
-
     }
 }
